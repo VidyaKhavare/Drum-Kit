@@ -48,4 +48,4 @@ Drum-Kit/
 
 Add your screenshot here:
 
-<img alt="drum-kit" src="
+<img alt="drum-kit" src="image.png">
