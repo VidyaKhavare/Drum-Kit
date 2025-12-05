@@ -1,0 +1,139 @@
+*{
+    background-color:darkcyan;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    font-size: 90px;
+    font-family:cursive;
+    font-weight: bolder;
+    color: bisque;
+    text-shadow:
+    6px 6px 0 black,
+     1px -2px 0 black,
+    -1px  1px 0 black,
+     2px  1px 0 black;
+}
+.btnSet{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:15px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+button{
+    width: 250px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+    margin-right: 10px;
+    padding: 75px ;
+    background-color: burlywood;
+    font-size: 100px;
+    font-family:cursive;
+    font-weight: bolder;
+    color: pink;
+    border: 20px;
+    border-color:darkcyan;
+    border-radius:1rem ;
+    border-width: 20px;
+    border-style:ridge;
+    
+  
+    
+    
+}
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+.w{
+    background-image:url("images/drum.png");
+   background-size: cover; /* or 'contain' */
+   background-position: center;
+   background-repeat: no-repeat;
+    text-shadow:
+    -1px -1px 0 black,
+     1px -1px 0 black,
+    -1px  1px 0 black,
+     1px  1px 0 black;
+  
+
+}
+.a{
+ background-image:url("images/tom.png");
+ background-size: cover; /* or 'contain' */
+   background-position: center;
+   background-repeat: no-repeat;
+    text-shadow:
+    -1px -1px 0 black,
+     1px -1px 0 black,
+    -1px  1px 0 black,
+     1px  1px 0 black;
+  
+}
+.s{
+ background-image:url("images/j.png");
+ background-size: cover; /* or 'contain' */
+   background-position: center;
+   background-repeat: no-repeat;
+   text-shadow:
+    -1px -1px 0 black,
+     1px -1px 0 black,
+    -1px  1px 0 black,
+     1px  1px 0 black;
+}
+.d{
+ background-image:url("images/k.png");
+ background-size: cover; /* or 'contain' */
+   background-position: center;
+   background-repeat: no-repeat;
+   text-shadow:
+    -1px -1px 0 black,
+     1px -1px 0 black,
+    -1px  1px 0 black,
+     1px  1px 0 black;
+ 
+}
+.j{
+background-image:url("images/cymble.png");
+ background-size: cover; /* or 'contain' */
+   background-position: center;
+   background-repeat: no-repeat;
+    text-shadow:
+    -1px -1px 0 black,
+     1px -1px 0 black,
+    -1px  1px 0 black,
+     1px  1px 0 black;
+}
+.k{
+background-image:url("images/tom.png");
+ background-size: cover; /* or 'contain' */
+   background-position: center;
+   background-repeat: no-repeat;
+    text-shadow:
+    -1px -1px 0 black,
+     1px -1px 0 black,
+    -1px  1px 0 black,
+     1px  1px 0 black;
+}
+.l{
+background-image:url("images/drumstick.png");
+ background-size: cover; /* or 'contain' */
+   background-position: center;
+   background-repeat: no-repeat;
+    text-shadow:
+    -1px -1px 0 black,
+     1px -1px 0 black,
+    -1px  1px 0 black,
+     1px  1px 0 black;
+}
+.pressed{
+  box-shadow: 0 3px 4px 0 whitesmoke;
+  opacity: 0.5;
+}
