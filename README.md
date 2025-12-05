@@ -13,6 +13,7 @@ Add your live demo link here:
 ---
 
 ## 📂 Project Structure
+---
 
 Drum-Kit/
 │
@@ -24,6 +25,7 @@ Drum-Kit/
 ├── drum.js
 └── git/
 
+---
 ---
 
 ## ✨ Features
