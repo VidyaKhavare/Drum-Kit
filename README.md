@@ -13,19 +13,19 @@ Add your live demo link here:
 ---
 
 ## 📂 Project Structure
----
 
-Drum-Kit/
-│
-├── .vscode/
-├── images/
-├── music/
-├── index.html
-├── drum.css
-├── drum.js
-└── git/
 
----
+Drum-Kit/ <br>
+│<br>
+├── .vscode/<br>
+├── images/<br>
+├── music/<br>
+├──  git/<br>
+├── drum.css<br>
+├── drum.js<br>
+└──index.html<br>
+
+
 ---
 
 ## ✨ Features
