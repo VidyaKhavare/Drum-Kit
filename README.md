@@ -8,7 +8,7 @@ Users can play different drum sounds by clicking the drum buttons or pressing th
 ## 🔗 Live Demo
 Add your live demo link here:
 
-[Click here to view the Live Demo](https://your-live-link.com)
+[Click here to view the Live Demo](https://vidyakhavare.github.io/Drum-Kit/)
 
 ---
 
